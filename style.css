@@ -1,0 +1,21 @@
+.bg-image{
+    background-image: url('images/braden-collum-9HI8UJMSdZA-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    }
+    .first{
+        margin-top: 150px;
+        width: auto;
+        font-size: 50px;
+        font: bold;
+        font-weight: 800;
+    }
+    .text1{
+        font-size: 32px;
+        font-style: italic;
+    }
+    .container2{
+        background-color: white;
+        height: 47vh;
+    }
