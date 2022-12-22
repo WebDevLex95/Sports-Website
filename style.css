@@ -18,6 +18,7 @@
     .container2{
         background-color: white;
         height: 47vh;
+        padding: 30px;
     }
     .row1{
         padding-top: 40px;
@@ -27,5 +28,10 @@
     background-image: url(images/fitsum-admasu-oGv9xIl7DkY-unsplash.jpg);
     height: 120vh;
     background-size: cover;
-    padding: 20px;
+    width: 90%;
+    margin: 75px;
+  }
+  .container3{
+    margin-top: 240px;
+    padding: 30px;
   }
