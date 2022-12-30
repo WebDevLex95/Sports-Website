@@ -28,8 +28,9 @@
     background-image: url(images/fitsum-admasu-oGv9xIl7DkY-unsplash.jpg);
     height: 120vh;
     background-size: cover;
-    width: 90%;
+    width: auto;
     margin: 75px;
+  
   }
   .container3{
     margin-top: 240px;
