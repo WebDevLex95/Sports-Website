@@ -32,6 +32,14 @@
     margin: 75px;
   
   }
+  .bg-image2{
+    background-image: url(images/gentrit-sylejmani-JjUyjE-oEbM-unsplash.jpg);
+    height: 60vh;
+    background-size: cover;
+    width: auto;
+  
+  
+  }
   .container3{
     margin-top: 240px;
     padding: 30px;
@@ -42,3 +50,8 @@
   .text9{
     font-weight: 500;
   }
+  .container8{
+    background-color: lightgrey;
+    height: 47vh;
+    padding: 30px;
+}
