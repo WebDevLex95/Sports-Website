@@ -2,7 +2,7 @@
     background-image: url('images/braden-collum-9HI8UJMSdZA-unsplash.jpg');
     background-position: center;
     background-size: cover;
-    height: 75vh;
+    height: 79vh;
     }
     .first{
         margin-top: 150px;
@@ -15,10 +15,11 @@
         font-size: 32px;
         font-style: italic;
     }
+   
     .container2{
         background-color: white;
-        height: 47vh;
-        padding: 30px;
+        height: 40vh;
+        padding: 6px;
     }
     .row1{
         padding-top: 40px;
@@ -34,7 +35,7 @@
   }
   .bg-image2{
     background-image: url(images/gentrit-sylejmani-JjUyjE-oEbM-unsplash.jpg);
-    height: 60vh;
+    height: 45vh;
     background-size: cover;
     width: auto;
   
@@ -52,6 +53,6 @@
   }
   .container8{
     background-color: lightgrey;
-    height: 60vh;
+    height: 70vh;
     padding: 30px;
 }
