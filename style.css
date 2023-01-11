@@ -37,7 +37,7 @@
     
   }
   .bg-image2{
-    background-image: url(images/gentrit-sylejmani-JjUyjE-oEbM-unsplash.jpg);
+    background-image: url(images/whiteshoe.jpg);
     height: 45vh;
     background-size: cover;
     width: auto;
@@ -71,4 +71,12 @@
 }
 .word{
   color: rgb(241, 0, 0);
+}
+.text6{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 300%;
+}
+.text12{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 100%;
 }
