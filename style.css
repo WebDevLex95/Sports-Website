@@ -17,7 +17,7 @@
     }
    
     .container2{
-        background-color: whitesmoke;
+        background-color: black;
         height: 40vh;
         padding: 15px;
         text-align: center;
@@ -28,13 +28,13 @@
       
     }
   .bg-image1{
+    background-color: black;
     background-image: url(images/greyshoe.jpg);
     height: 80vh;
     background-size: cover;
     background-position: center;
     width: auto;
-    margin: 50px;
-  
+    
   }
   .bg-image2{
     background-image: url(images/gentrit-sylejmani-JjUyjE-oEbM-unsplash.jpg);
@@ -45,7 +45,6 @@
   
   }
   .container3{
-    margin-top: 240px;
     padding: 30px;
   }
   .container5{
@@ -63,10 +62,12 @@
   text-align: left;
   font-size: 17px;
   word-spacing: 3px;
+  color: white;
 }
 .text5{
   text-align: left;
-  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: whitesmoke;
 }
 .word{
   color: rgb(241, 0, 0);
