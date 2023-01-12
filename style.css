@@ -37,12 +37,12 @@
     
   }
   .bg-image2{
-    background-image: url(images/whiteshoe.jpg);
+    background-image: url(images/blackshoes.jpg);
     height: 45vh;
     background-size: cover;
+    background-position: center;
     width: auto;
-  
-  
+
   }
   .container3{
     padding: 35px;
@@ -54,7 +54,7 @@
     font-weight: 500;
   }
   .container8{
-    background-color: lightgrey;
+    background-color: rgba(39, 38, 38, 0.392);
     height: 70vh;
     padding: 30px;
 }
