@@ -70,7 +70,7 @@
   color: whitesmoke;
 }
 .word{
-  color: rgb(241, 0, 0);
+  color: rgb(107, 13, 13);
 }
 .text6{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -79,4 +79,7 @@
 .text12{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 100%;
+}
+.a12{
+padding-top: 50px;
 }
