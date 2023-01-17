@@ -5,6 +5,7 @@
     height: 79vh;
     }
     .first{
+      color: rgb(144, 10, 10);
         margin-top: 150px;
         width: auto;
         font-size: 50px;
@@ -82,4 +83,7 @@
 }
 .a12{
 padding-top: 50px;
+}
+.navi{
+  color: rgb(174, 17, 17);
 }
