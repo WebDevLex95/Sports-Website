@@ -14,7 +14,9 @@
     }
     .text1{
         font-size: 32px;
-        font-style: italic;
+        font-style: times;
+        font-weight: 700;
+        color: rgb(174, 17, 17);
     }
    
     .container2{
