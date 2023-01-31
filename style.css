@@ -59,8 +59,11 @@
   .container8{
     background-color: rgba(39, 38, 38, 0.392);
     height: 70vh;
-    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
 .text2{
   text-align: left;
   font-size: 17px;
