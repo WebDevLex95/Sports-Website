@@ -23,7 +23,9 @@
         background-color: black;
         height: 40vh;
         padding: 15px;
-        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     .row1{
         padding-top: 40px;
@@ -51,14 +53,17 @@
     padding: 35px;
   }
   .container5{
-    padding-top: 70px;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   .text9{
     font-weight: 500;
   }
   .container8{
     background-color: rgba(39, 38, 38, 0.392);
-    height: 70vh;
+    height: 60vh;
     display: flex;
     justify-content: center;
     align-items: center;
