@@ -6,7 +6,7 @@
     }
     .first{
       color: rgb(202, 16, 16);
-        margin-top: 150px;
+        margin-top: 170px;
         width: auto;
         font-size: 50px;
         font: bold;
@@ -102,39 +102,3 @@
 }
 
 
-.topnav {
-  overflow: hidden;
-  background-color: #333;
-  position: relative;
-
-}
-
-.topnav #myLinks {
-  display: none;
-}
-
-.topnav a {
-  color: white;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 27px;
-  display: block;
-}
-
-.topnav a.icon {
-  background: black;
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.active {
-  background-color: black;
-  color: white;
-}
