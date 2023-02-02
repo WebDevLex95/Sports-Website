@@ -6,7 +6,7 @@
     }
     .first{
       color: rgb(202, 16, 16);
-        margin-top: 170px;
+        margin-top: 180px;
         width: auto;
         font-size: 50px;
         font: bold;
@@ -100,5 +100,7 @@
 .ramirez{
   display: flex;
 }
-
-
+.text3{
+color: red;
+font-size: 25px;
+}
